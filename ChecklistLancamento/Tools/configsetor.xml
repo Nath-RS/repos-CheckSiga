@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Setores>
+  <Setor nome="Setor91">
+	  
+    <Localidade>BR 21-0171 - JARDIM DOS VELEIROS - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0172 - CASA GRANDE - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0177 - FAZENDA DO SCHUNK - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0178 - INTERLAGOS - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0183 - JARDIM GUANHEMBU - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0184 - JARDIM IPORANGA - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0190 - JARDIM LALO - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0201 - VILA ESPERANÇA - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0504 - JARDIM DAS LARANJEIRAS - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0528 - PARQUE FLORESTAL - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0204 - VILA SÃO JOSÉ - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0758 - RECANTO DOS NOBRES - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0182 - JARDIM DOS ÁLAMOS - SANTO AMARO</Localidade>
+	
+  </Setor>
+  <Setor nome="Setor92">
+	  
+    <Localidade>BR 21-0179 - ITAIM - PARELHEIROS - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0188 - JARDIM TRÊS CORAÇÕES - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0196 - PARQUE GRAJAÚ - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0388 - JARDIM SÃO BERNARDO - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0421 - JARDIM ELIANE - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0523 - JARDIM MARILDA - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0622 - PARQUE RESIDENCIAL COCAIA - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0524 - JARDIM SÃO RAFAEL - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0525 - JARDIM SANTA BÁRBARA - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0180 - CHÁCARA MARIETA - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0527 - JARDIM LUCÉLIA - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0626 - CHÁCARAS SANTO AMARO</Localidade>
+	<localidade>BR 21-1208 - ILHA DO BORORÉ</localidade>
+	<Localidade>BR 21-1055 - JARDIM SETE DE SETEMBRO - SANTO AMARO</Localidade>
+	  
+  </Setor>
+  <Setor nome="Setor93">
+	  
+    <Localidade>BR 21-0167 - BARRAGEM - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0768 - CIDADE NOVA AMÉRICA - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0175 - COLÔNIA PAULISTA - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0176 - ENGENHEIRO MARSILAC - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0195 - PARELHEIROS - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0931 - RECANTO ANA MARIA - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0861 - VILA ROSCHEL - PARELHEIROS - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0165 - EMBURA - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0689 - VARGEM GRANDE - CONJUNTO HABITACIONAL - SANTO AMARO</Localidade>
+    <Localidade>BR 21-1155 - JARDIM DAS FONTES - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0669 - PONTE SECA - SANTO AMARO</Localidade>
+    <Localidade>BR 21-0627 - JARDIM SÃO NORBERTO - SANTO AMARO</Localidade>
+	<Localidade>BR 21-0614 - ESTAÇÃO EVANGELISTA DE SOUZA - SANTO AMARO</Localidade>
+	  
+  </Setor>
+</Setores>
+
